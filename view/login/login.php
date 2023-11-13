@@ -21,8 +21,8 @@
               <input type="password" name="pass" placeholder="Nhập password của bạn" class="form__input">
               <div class="form__btn">
                 <input type="submit" name="dangnhap" value="Đăng Nhập" class="btn">
-                  <button name="register" class="btn">
-                    <a href="index.php?act=register">Đăng ký tài khoản</a>
+                  <button name="register" >
+                    <a href="index.php?act=register" class="btn">Đăng ký tài khoản</a>
                   </button>
               </div>
             </form>
